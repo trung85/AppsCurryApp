@@ -8,7 +8,7 @@ function doGet()
 
 function getRequestApp()
 {
-	return new AppLib.RequestsApp('https://docs.google.com/spreadsheets/d/15KRD5eLNMkOEfsoP-5FQybEnUoqtKGMLbR3ilId9V-I/edit');
+	return new AppLib.RequestsApp('https://docs.google.com/spreadsheets/d/1-8U9-UlJ70VXaCuN7nS2_UG4EkDjpmrtfo1gkwmbSKY/edit#gid=679248299');
 }
 
 function loadRequests()

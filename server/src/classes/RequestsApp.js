@@ -1,5 +1,5 @@
 'use strict';
-import SpreadsheetDB from './SpreadsheetDB.js';
+import SpreadsheetDB from './SpreadSheetDb.js';
 
 class RequestsApp
 {
